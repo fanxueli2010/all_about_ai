@@ -1,0 +1,11 @@
+From the Transcribtion and Timeframes above, find the out the most interesting and impactful 60 seconds(IMPORTANT) Return ONLY the Timestamps this:
+
+"00:08:42,000 --> 00:09:42,000"
+
+From the Transcribtion and Timeframes above, find the out the most interesting and impactful 30 seconds(IMPORTANT) Return ONLY the Timestamps for this:
+
+"00:05:27,000 --> 00:05:57,000"
+
+<<SRT>>
+
+From the Transcribtion and Timeframes above, find the most interesting and impactful <<TIME>> seconds(IMPORTANT) clip about <<ABT>>. Return ONLY the Timestamps for this(DONT DO ANY DESCRIBTIONS ETC, JUST TIMESTAMPS):
