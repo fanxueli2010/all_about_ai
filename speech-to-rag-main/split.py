@@ -10,7 +10,7 @@ def open_file(filepath):
         return infile.read()
         
 # Set your OpenAI API key
-#openai_api_key = "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"
+
 # Initialize the OpenAI client with your API key
 client = OpenAI(api_key=openai_api_key)
 
