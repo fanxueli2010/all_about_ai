@@ -1,0 +1,4 @@
+venv
+speech-to-rag-main/checkpoints/
+speech-to-rag-main/outputs/
+speech-to-rag-main/XTTS-v2/
