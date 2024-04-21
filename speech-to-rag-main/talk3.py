@@ -24,8 +24,8 @@ RESET_COLOR = '\033[0m'
 
 # Set up the faster-whisper model
 model_size = "medium.en"
-whisper_model = WhisperModel(model_size, device="cuda", compute_type="float16")
-
+# whisper_model = WhisperModel(model_size, device="cuda", compute_type="float16")
+whisper_model = WhisperModel(model_size, device="cpu", compute_type="float32")
 # Function to open a file and return its contents as a string
 def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
